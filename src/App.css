@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.person{
+  color: rgb(254, 254, 10);
+  background-color: rgb(95, 95, 95);
+  padding: 5%;
+  margin: 10px;
+  border-radius: 20px;
+}
+
