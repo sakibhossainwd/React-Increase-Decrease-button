@@ -5,7 +5,7 @@ import { useEffect, useState } from 'react';
 function App() {
   return (
     <div className="App">
-      {/* <Counter></Counter> */}
+      <Counter></Counter>
       <ExternamUsers></ExternamUsers>
     </div>
   );
